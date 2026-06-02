@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+
+}
+/* .heading{
+    color: rgb(164, 45, 45);
+}
+p~ol {
+    color: aqua;
+}
+p a{
+    background-color: bisque;
+} */
+ .head{
+    background-color: blanchedalmond;
+}
+p{
+    background-color: lab(91.12% -48.08 -14.14) !important ;
+}
+#unique{
+    background-color: cadetblue;
+}
+h1{
+    background-color: purple;
+}
+
