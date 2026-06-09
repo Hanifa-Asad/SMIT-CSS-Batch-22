@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#box {
+    background-color: rgba(51, 146, 131, 0.663);
+    color: white;
+    height: 100px;
+    width: 200px;
+    /* max-width: 700px;
+    min-height: 300px; */
+    border-width: 2px;
+    border-style:solid;
+    border-color: black;
+    border-top-width: 4px;
+    border-right: 1px solid pink;
+ border-style: double dotted groove dashed;
+   border-image: url(https://www.w3schools.com/cssref/border.png) 30 repeat;
+   margin: 20px;
+   margin: 20px 10px 30px 10px;
+   margin: 0 auto;
+
+}
+
+.box-para{
+    background-color: hotpink;
+    height: 50%;
+    width: 75%;
+    overflow: hidden;
+    /* padding-top: 20px;
+    padding-bottom: 10px; */
+
+    /* border: 2px solid goldenrod; */
+    /* border-image: url(https://www.w3schools.com/cssref/border.png) 30 round; */
+}
+li{
+    display: inline-block;
+}
+#soon{
+    display: inline-block;
+    visibility: hidden;
+}
+.para{
+    display: inline-block;
+        /* padding: 10px ; */
+       margin: 10px auto;
+     width: 30%;  
+     /* border: 2px solid black; */
+     border-radius: 5px;
+     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+     
+}
+#unique{
+    width: 700px;
+    display: inline-block;
+}
+.para:hover{
+    background-color: rgb(173, 245, 245);
+}
