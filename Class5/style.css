@@ -1,0 +1,39 @@
+ol{
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+ul{
+    list-style-image: url("https://www.w3schools.com/cssref/sqpurple.gif");
+    list-style-position: outside;
+}
+.circle{
+    list-style: inside circle;
+}
+table{
+    width: 500px;
+      border-spacing: 10px 5px;
+    border-collapse: separate;
+    
+}
+th{
+    text-align: left;
+  text-transform: uppercase;
+  border-bottom: 1px solid black;
+}
+.even{
+    background-color: rgb(165, 163, 163);
+}
+td{
+    padding: 10px;
+    border: 1px solid black;
+  
+
+
+
+}
+td:hover{
+ background-color: coral;
+}
+.hide{
+    empty-cells: hide;
+}
