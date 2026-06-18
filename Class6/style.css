@@ -1,0 +1,66 @@
+input {
+    background-color: aliceblue;
+    font-size: 20px;
+
+}
+
+#fn {
+    padding-left: 55px;
+}
+
+.icon {
+    padding-left: 100px;
+}
+
+input:focus {
+    background-color: #531d1d;
+    border: 1px solid #33b6bf;
+}
+
+input:hover {
+    background-color: #ddac18;
+    border: 1px solid #032123;
+}
+button{
+    background-color: #032123;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    /* padding: 2px;
+    margin: 2px; */
+    width: 100px;
+    height: 60px;
+
+      background: #2db34a;
+  border-radius: 6px;
+  transition-property: background, border-radius;
+  transition-duration: .2s, 1s;
+  transition-timing-function: linear;
+  cursor: text;
+}
+button:hover{
+    background-color: aquamarine;
+    color: black;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+      background: #ff7b29;
+  border-radius: 50%;
+}
+fieldset{
+    background-color: blanchedalmond;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+legend{
+    font-size: 30px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-style: italic;
+
+}
+div{
+    float: right;
+}
+/* #male{
+    float:left;
+} */
+ 
