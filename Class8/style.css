@@ -1,0 +1,35 @@
+body{
+    background-image: url('https://icon2.cleanpng.com/20230604/rcv/transparent-eiffel-tower-1711129149675.webp');
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+    background-position: center;
+    object-fit: contain;
+    
+}
+
+/* .box{
+
+  background-color: rgb(113, 108, 108);
+  height: auto;
+  width: 1000px;
+} */
+.one {
+  float: left;
+  width: 30%;
+  margin: 40px;
+}
+.two {
+  float: right;
+  width: 30%;
+  margin: 40px;
+}
+img {
+  height: 100px;
+  width: 100px;
+}
+hgroup{
+    float: right;
+    width: 300px;
+    margin-top: 500px;
+    
+}
