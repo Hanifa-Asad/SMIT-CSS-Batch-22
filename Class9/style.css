@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "mypoppims";
+    src: url(fonts/Poppins-Regular.ttf);
+}
+
+.child{
+    margin: 0 auto;
+    width: 70%;
+    background-color: blueviolet;
+    padding: 20px;
+}
+h1{
+    padding: 30px;
+    font-family: "poppins", sans-serif ;
+    font-family: "mypoppims", sans-serif;
+}
